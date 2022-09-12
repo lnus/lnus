@@ -1,3 +1,1 @@
-<div id="header" align="center">
-    Linus Wæhler
-</div>
+![Linus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnus&show_icons=true&theme=radical)
