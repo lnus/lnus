@@ -1,5 +1,4 @@
 ## Linus Wæhler
 ### :sweden: CS Student based in Uppsala, Sweden
 
-![Epic](seq.gif)
-
+![bad apple](https://lnus.github.io/git-apple/BA.webm)
